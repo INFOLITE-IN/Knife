@@ -1,11 +1,6 @@
 var gradle = { log: function(val){val && console.log( gradle.isMobile && (typeof val === 'object') ? JSON.stringify(val) : val );},
 /**
-	GRADLE - KNOWLEDGE IS POWER
-	***** JACOB SERVICES LLC ***
-    ***** PROPRIETARY CODE *****
-    @author : gradle (jacob.services@outlook.com)
-	@date: 01/26/2021 14:43:00
-	@version: 7.0.0
+	@kaviyarasan-1997
 	copyright @2021
 */
 
